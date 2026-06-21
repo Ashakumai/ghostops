@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+requests
+langchain-groq
+langchain-openai
+python-dotenv
+chromadb
+prometheus-client
+sentence-transformers
